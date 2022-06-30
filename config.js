@@ -30,7 +30,7 @@ global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to of
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
-global.available = false //auto available (true to on, false to off)
+global.available = true //auto available (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
